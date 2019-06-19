@@ -8,8 +8,9 @@
  * @format
  */
 
-import React, { Component } from "react";
+import React from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
+import { Button } from "react-native-elements";
 
 const instructions = Platform.select({
   ios: "Press Cmd+R to reload,\n" + "Cmd+D or shake for dev menu",
@@ -20,11 +21,22 @@ const instructions = Platform.select({
 
 interface Props {}
 export default () => {
+  const [label, setLabel] = React.useState("label");
+  const handleClick = () => {
+    setLabel("You know me!");
+  };
+
   return (
     <View style={styles.container}>
       <Text style={styles.welcome}>Seasonal</Text>
       <Text style={styles.instructions}>To get started, edit App.tsx</Text>
-      <Text style={styles.instructions}>{instructions}</Text>
+      <Text style={styles.instructions}>{label}</Text>
+      <Button
+        buttonStyle={styles.btn}
+        titleStyle={styles.btnTitle}
+        title="VIEW MENU"
+        onPress={handleClick}
+      />
     </View>
   );
 };
@@ -42,6 +54,13 @@ const styles = StyleSheet.create({
     margin: 10,
     color: "white",
     letterSpacing: 2
+  },
+  btn: {
+    margin: 10,
+    backgroundColor: "#2c4e46"
+  },
+  btnTitle: {
+    fontWeight: "normal"
   },
   instructions: {
     textAlign: "center",

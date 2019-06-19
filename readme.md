@@ -8,4 +8,4 @@
 
 ***5. QR Code in the app so that users can bring up their order in the store.***
 
-***6. ***
+***6. Add Lotti animations throughout***
