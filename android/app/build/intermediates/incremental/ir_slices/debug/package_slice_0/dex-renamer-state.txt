@@ -1,0 +1,4 @@
+#Tue Jun 18 09:48:59 PDT 2019
+base.0=C\:\\github\\sweetgreen\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
