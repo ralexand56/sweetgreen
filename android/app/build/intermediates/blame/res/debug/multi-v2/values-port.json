@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\github\\sweetgreen\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "/Users/ricoalexander/Projects/sweetgreen/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SurfaceBook 2.0\\.gradle\\caches\\transforms-2\\files-2.1\\71c6f55a433e712c8b5e4c9084f84587\\res\\values-port\\values-port.xml",
+                    "source": "/Users/ricoalexander/.gradle/caches/transforms-2/files-2.1/e6d04e5208a6c4f1375d524c6a5d0d16/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

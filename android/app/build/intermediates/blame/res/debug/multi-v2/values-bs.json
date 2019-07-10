@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\github\\sweetgreen\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "/Users/ricoalexander/Projects/sweetgreen/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SurfaceBook 2.0\\.gradle\\caches\\transforms-2\\files-2.1\\71c6f55a433e712c8b5e4c9084f84587\\res\\values-bs\\values-bs.xml",
+                    "source": "/Users/ricoalexander/.gradle/caches/transforms-2/files-2.1/e6d04e5208a6c4f1375d524c6a5d0d16/res/values-bs/values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\SurfaceBook 2.0\\.gradle\\caches\\transforms-2\\files-2.1\\cb61eab5a2de8826248c65727138b482\\res\\values-bs\\values-bs.xml",
+                    "source": "/Users/ricoalexander/.gradle/caches/transforms-2/files-2.1/b08622b164e79351dd6f25c4d64077fb/res/values-bs/values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

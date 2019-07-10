@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.m \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h

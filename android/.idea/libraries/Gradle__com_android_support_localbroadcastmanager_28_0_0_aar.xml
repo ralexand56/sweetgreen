@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fbf4f0a649db27ce700d5a24ad147e59/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fbf4f0a649db27ce700d5a24ad147e59/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebbecd99554e80e71ec5c98c20199abe/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebbecd99554e80e71ec5c98c20199abe/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

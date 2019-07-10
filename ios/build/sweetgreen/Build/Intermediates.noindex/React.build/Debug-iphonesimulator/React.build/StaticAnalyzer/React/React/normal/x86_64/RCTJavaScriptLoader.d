@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ricoalexander/Projects/sweetgreen/ios/build/sweetgreen/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/ricoalexander/Projects/sweetgreen/node_modules/react-native/React/Base/RCTPerformanceLogger.h
